@@ -1,9 +1,9 @@
-<imagen origen="nombre de la imagen.png">
+<ing
 - 👋 Hola, soy Leticia Fajardo.
 - 👀 Estoy interesada en la tecnología en general y las neurociencias.
 - 🌱 Actualmente soy doctorante en tecnología educativa.
 - 📫 leticiafajardo@uninnova.mx
-- ⚡ Me gusta lo sobrenatural, comedia y ciencia ficción.
+- ⚡ Me gusta los temas: sobrenatural, comedia y ciencia ficción.
 
 <!---
 Lety-Fajardo/Lety-Fajardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
