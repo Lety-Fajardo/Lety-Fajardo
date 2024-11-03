@@ -1,4 +1,4 @@
-<img src=“portadagub.png”>
+<img src= “portadagub.png”>
 - 👋 Hola, soy Leticia Fajardo.
 - 👀 Estoy interesada en la tecnología en general y las neurociencias.
 - 🌱 Actualmente soy doctorante en tecnología educativa.
